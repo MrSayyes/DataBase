@@ -6,7 +6,7 @@
 
   ![image](https://user-images.githubusercontent.com/19297162/68989654-ba265100-0884-11ea-8f0a-380ebff7a966.png)
 
-2. mysql版本 -> [环境搭建链接]([https://github.com/MrSayyes/Grocery-store/blob/master/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/Mysql%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.md](https://github.com/MrSayyes/Grocery-store/blob/master/环境配置/Mysql环境搭建.md))
+2. mysql版本 -> [环境搭建链接]((https://github.com/MrSayyes/Grocery-store/blob/master/环境配置/Mysql环境搭建.md))
 
   ![image](https://user-images.githubusercontent.com/19297162/68989640-a11da000-0884-11ea-99d9-8aaf2b4c1168.png)
 
